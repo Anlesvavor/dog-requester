@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/breedListFragment">
+
+    <fragment
+        android:id="@+id/breedListFragment"
+        android:name="com.example.linearandconstraintlayouts.BreedListFragment"
+        android:label="breed_list_fragment"
+        tools:layout="@layout/breed_list_fragment" />
+    <fragment
+        android:id="@+id/dogFragment"
+        android:name="com.example.linearandconstraintlayouts.DogListFragment"
+        android:label="fragment_dog"
+        tools:layout="@layout/dog_list_fragment" />
+</navigation>

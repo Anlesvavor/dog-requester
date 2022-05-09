@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LinearAndConstrainTLayouts</string>
+    <string name="this_is_the_kotlin_fragment_content">This is the Kotlin fragment content</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dogs">Dogs</string>
+    <string name="breeds">breeds</string>
+    <string name="breed_photo">Breed photo</string>
+    <string name="breed_for">Breed for</string>
+    <string name="breed_group">Breed Group</string>
+    <string name="life_span">Life span</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="breed_name">Breed Name</string>
+    <string name="request_dog">Request dog</string>
+    <string name="details">Details</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="name">Name</string>
+    <string name="breed">Breed</string>
+</resources>
